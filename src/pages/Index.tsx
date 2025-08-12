@@ -42,7 +42,7 @@ const Index = () => {
               delay="delay-100"
             />
           </a>
-{/*
+
           <a
             href="https://e-survei.kemenagtpi.my.id"
             target="_blank"
@@ -55,9 +55,9 @@ const Index = () => {
               color="blue"
               delay="delay-200"
             />
-          </a> */}
+          </a>
 
-          {/* <a
+          <a
             href="https://elcuti.kemenagtpi.my.id"
             target="_blank"
             rel="noopener noreferrer"
@@ -69,7 +69,7 @@ const Index = () => {
               color="pink"
               delay="delay-300"
             />
-          </a> */}
+          </a>
 
           <a
             href="https://stl.kemenagtpi.my.id"
